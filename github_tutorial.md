@@ -9,6 +9,26 @@
 * After that, post your username on the gc and you'll get an email inviting you to collaborate on the repo
 * Click the link on the email and accept the invitation
 ![Invite](https://gyazo.com/99b83bf6cd51cadaa89ad4e4167006b0.png)
+
+* Download GitHub Desktop and run .exe
+![Sign-up6](https://i.gyazo.com/6a58c3bf3ef57838dcc25b03a289c3ab.png)
+* Sign in using github.com account and this should pop up
+![Sign-up7](https://i.gyazo.com/38f3395b89ee47f10542ebb12e3f49e7.png)
+* Open up our repo and click clone and then open in desktop
+![Cloning1](https://i.gyazo.com/1d9ac0f422653ae5c5926e205355284b.png)
+* A pop-up appears, click open GitHubDesktop.exe
+![Cloning2](https://i.gyazo.com/f27a04fd2bf8c35e3c0e136bed5a94d2.png)
+* This will pop up the on the desktop app, change the Local Path if you want to (this is where the repo will be stored on your computer). Then click clone
+![Cloning3](https://i.gyazo.com/7138bc8cec3d0dbcd4faa8ce767b82b2.png)
+* The **fetch origin** buttom serves to download the lattest updates of the files, **always** fetch the main branch before starting to work to get what your colleagues have been working on, on your pc. This prevents the code breaking a ton.
+* The **branch** will not be used.
+* Now open the files as you want, and make the changes you want to make
+* Once done the Desktop app will look like this
+![Update1](https://i.gyazo.com/6b530408edf8e2218f183955e9fb779f.png)
+* We can see the file that has been changed on the left, unfortunately there is no preview for matlab files. **Please** include a message on "Update PHASE1_Group16.mlx" saying what you've done to the file. This helps keep track of what each change made.
+* Click commit to master.
+
+
 * Clone the **master branch** (donwloading it as zip is fine)
 ![Cloning](https://gyazo.com/b8daefd4a7b8e8c60d5c5a92343dc3eb.png)
 * Make whatever changes you want locally

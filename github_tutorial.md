@@ -20,23 +20,18 @@
 ![Cloning2](https://i.gyazo.com/f27a04fd2bf8c35e3c0e136bed5a94d2.png)
 * This will pop up the on the desktop app, change the Local Path if you want to (this is where the repo will be stored on your computer). Then click clone
 ![Cloning3](https://i.gyazo.com/7138bc8cec3d0dbcd4faa8ce767b82b2.png)
-* The **fetch origin** buttom serves to download the lattest updates of the files, **always** fetch the main branch before starting to work to get what your colleagues have been working on, on your pc. This prevents the code breaking a ton.
-* The **branch** will not be used.
+* The **fetch origin** buttom serves to download the lattest updates of the files, **always fetch the main branch before starting to work** to get what your colleagues have been working on, on your pc. This prevents the code breaking a ton.
+* After fetching the main brainch, open the files as usual and work on then
 * Now open the files as you want, and make the changes you want to make
 * Once done the Desktop app will look like this
-![Update1](https://i.gyazo.com/6b530408edf8e2218f183955e9fb779f.png)
-* We can see the file that has been changed on the left, unfortunately there is no preview for matlab files. **Please** include a message on "Update PHASE1_Group16.mlx" saying what you've done to the file. This helps keep track of what each change made.
-* Click commit to master.
+![Update1](https://gyazo.com/ca97431320620fa3f12b7d6c703d6506)
+* We can see the file that has been changed on the left and what was done. Now **change from the master branch to your own** and bring the changes.
+![Update2](https://i.gyazo.com/43e4f8dc45cabd34e1b19d8f7e706d64.png)
+* **Please** include a message on "Update PHASE1_Group16.mlx" saying what you've done to the file. This helps keep track of what each change made. Commit the file to your branch
+* If there is a conflict press yes commit files (this won't affect the master branch yet).
+![Update3](https://i.gyazo.com/06084e06d954539668a538b8ec17f861.png)
+* After this push to origin
 
-
-* Clone the **master branch** (donwloading it as zip is fine)
-![Cloning](https://gyazo.com/b8daefd4a7b8e8c60d5c5a92343dc3eb.png)
-* Make whatever changes you want locally
-* Go back to the github repo select **your branch** (left) and click upload files
-![Uploading](https://i.imgur.com/pTb0QmJ.png)
-* This will show up
-![Uploading1](https://i.gyazo.com/738c068aa050e2d7fc4681b818acc2a2.png)
-* Drag the **files** (not folder) that you've changed and click the commit directly to branch **make sure it is not master**
 * This message will appear
 ![Uploading2](https://gyazo.com/f4508333da759d078ab93f5b7f806295.png)
 * Click compare & pull request

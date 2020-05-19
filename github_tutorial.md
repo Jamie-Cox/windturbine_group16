@@ -31,11 +31,8 @@
 * If there is a conflict press yes commit files (this won't affect the master branch yet).
 ![Update3](https://i.gyazo.com/06084e06d954539668a538b8ec17f861.png)
 * After this push to origin
+* Create pull request to merge to master branch
 
-* This message will appear
-![Uploading2](https://gyazo.com/f4508333da759d078ab93f5b7f806295.png)
-* Click compare & pull request
-![Uploading3](https://gyazo.com/65a01b09d627f33600298ef9be7d049f.png)
 * If everything is fine this will show up (it says able to merge), create pull request
 ![Uploading4](https://gyazo.com/83903bfb72e90a1729678754e7c4fe82.png)
 * Then we will later merge the pull into the master

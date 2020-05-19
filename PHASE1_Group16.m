@@ -51,6 +51,7 @@ line_best_fit_newcgneg6=polyfit(new_cgneg6_cl,new_cgneg6_ih,1);
 
 
 plot(linspace(0,0.7), polyval(line_best_fit_newcg0,linspace(0,0.7)),"r")
+
 plot(linspace(0,0.7), polyval(nobueno,bAd);
 scatter(new_cg6_cl,new_cg6_ih,"g")
 plot(linspace(0,0.7), polyval(line_best_fit_newcg6,linspace(0,0.7)),"g")

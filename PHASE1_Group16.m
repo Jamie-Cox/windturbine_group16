@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 %Q4 steady flight sim
 x_zero_fuel = 10.14;
 x_fuel_tank = 10.06;
@@ -8,6 +9,9 @@ steady_flight_emptyANDpayload = (13434.8 + 1081.8) * 0.45359237;
 steady_flight_cg0_fuel = [3376.50000000000	3371.10000000000	3364.40000000000	3330.80000000000 4042	4026	4005	3984]* 0.45359237;
 steady_flight_cg0_weight = (steady_flight_emptyANDpayload  + steady_flight_cg0_fuel).* 9.81;
 steady_flight_cg0_xCG =( (steady_flight_emptyANDpayload).*x_zero_fuel + steady_flight_cg0_fuel .*x_fuel_tank )./ (steady_flight_cg0_fuel + steady_flight_emptyANDpayload);
+=======
+%PHASE1 Group16 Wind Turbine
+>>>>>>> Stashed changes
 
 steady_flight_cg0_Vi = [181	156	105	315 220   180   160   140]./ 1.943844;
 steady_flight_cg0_CL = (2.*steady_flight_cg0_weight)./(rho_0.*s_ref .* (steady_flight_cg0_Vi).^2);

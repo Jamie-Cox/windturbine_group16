@@ -24,7 +24,7 @@
 * After fetching the main brainch, open the files as usual and work on then
 * Now open the files as you want, and make the changes you want to make
 * Once done the Desktop app will look like this
-![Update1](https://gyazo.com/ca97431320620fa3f12b7d6c703d6506)
+![Update1](https://gyazo.com/ca97431320620fa3f12b7d6c703d6506.png)
 * We can see the file that has been changed on the left and what was done. Now **change from the master branch to your own** and bring the changes.
 ![Update2](https://i.gyazo.com/43e4f8dc45cabd34e1b19d8f7e706d64.png)
 * **Please** include a message on "Update PHASE1_Group16.mlx" saying what you've done to the file. This helps keep track of what each change made. Commit the file to your branch
